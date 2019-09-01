@@ -55,8 +55,8 @@ int main()
 {
 
     /*input file name and output file name*/
-    string input_file_name[4] = {"General", "Datahazard", "lwhazard", "Branchhazard"};
-    string output_file_name[4] = {"genResult.txt", "dataResult.txt", "loadResult.txt", "branchResult.txt"};
+    string input_file_name[4] = {"input/General", "input/Datahazard", "input/lwhazard", "input/Branchhazard"};
+    string output_file_name[4] = {"output/genResult.txt", "output/dataResult.txt", "output/loadResult.txt", "output/branchResult.txt"};
     for(int i = 0; i < 4; i++)
     {
         /*memory register pc*/

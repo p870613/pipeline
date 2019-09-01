@@ -1,7 +1,15 @@
-1. µ{¦¡·|¦Û¦æÅªÀÉ¡AÅªÀÉÀÉ¦W¥²¶·¬OGeneral¡B Datahazard¡Blwhazard¡BBranchhazard
+¿¿¿¿lw, sw, add, addi, sub, and, andi, or, slt, beq ¿¿
+¿¿¿¿¿¿¿¿ data hazard, hazard with load, branch hazard
 
-2. µ{¦¡·|¿é¥XÀÉ®×¡AÀÉ®×¤À§O¬°genResult.txt¡BdataResult.txt¡BloadResult.txt¡BbranchResult.txt
+- input:
+	MIPS ¿¿¿¿¿¿ 32-bit ¿¿¿¿¿¿¿¿¿¿¿
+- output:
+	¿¿¿¿¿¿¿ 32-bit ¿¿¿¿¿¿¿¿¿¿¿¿ clock cycle ¿¿¿¿ pipeline registers¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
 
-3. ¦p»İ§ïÀÉ¦W¡A½Ğ§ïµ{¦¡58¡B59¦æ¡A
+- µ{¦¡·|¦Û¦æÅªÀÉ¡AÅªÀÉÀÉ¦W¥²¶·¬OGeneral¡B Datahazard¡Blwhazard¡BBranchhazard
+
+- µ{¦¡·|¿é¥XÀÉ®×¡AÀÉ®×¤À§O¬°genResult.txt¡BdataResult.txt¡BloadResult.txt¡BbranchResult.txt
+
+- ¦p»İ§ïÀÉ¦W¡A½Ğ§ïµ{¦¡58¡B59¦æ¡A
    58¦æ¬°input_fileªºÀÉ¦W
    59¦æ¬°output_fileªºÀÉ¦W
