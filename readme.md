@@ -1,10 +1,11 @@
-¿¿¿¿lw, sw, add, addi, sub, and, andi, or, slt, beq ¿¿
-¿¿¿¿¿¿¿¿ data hazard, hazard with load, branch hazard
+¹ê§@«ü¥O: lw, sw, add, addi, sub, and, andi, or, slt, beq 
+°»´ú»P³B²z: data hazard, hazard with load, branch hazard
 
 - input:
-	MIPS ¿¿¿¿¿¿ 32-bit ¿¿¿¿¿¿¿¿¿¿¿
+	MIPS «ü¥OÂà´««áªº 32-bit ¾÷¾¹½X«ü¥O¬°µ{¦¡ªº¿é¤J
 - output:
-	¿¿¿¿¿¿¿ 32-bit ¿¿¿¿¿¿¿¿¿¿¿¿ clock cycle ¿¿¿¿ pipeline registers¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+	®Ú¾Ú³sÄò¿é¤Jªº 32-bit ¾÷¾¹½X«ü¥O¡A¼ÒÀÀ¨ä¦b¨C­Ó clock cycle ®É¡A¦U­Ó pipeline registers
+©ÒÀx¦sªº­È¡A¨Ã¿é¥X¼g¤J¦Ü¹ïÀ³¤å¥ó¤¤¡C
 
 - µ{¦¡·|¦Û¦æÅªÀÉ¡AÅªÀÉÀÉ¦W¥²¶·¬OGeneral¡B Datahazard¡Blwhazard¡BBranchhazard
 
